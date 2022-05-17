@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Add Geterbrewed navigation at top of custom grain list
+// @name         Geterbrewed navigation
 // @namespace    unlogic
 // @version      0.1
 // @description  Inserts a Next and Prev navigation at the top of the custom grain kit pages
